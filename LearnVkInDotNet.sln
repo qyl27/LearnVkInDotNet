@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnVkInDotNet", "LearnVkInDotNet\LearnVkInDotNet.csproj", "{C421A414-4E6B-4B32-8A52-2849826D7164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnVk", "LearnVk\LearnVk.csproj", "{C421A414-4E6B-4B32-8A52-2849826D7164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01HelloTriangle", "C01HelloTriangle\C01HelloTriangle.csproj", "{B69516AB-ACDE-4ABC-89E2-3070E89533C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnVk.C01HelloTriangle", "LearnVk.C01HelloTriangle\LearnVk.C01HelloTriangle.csproj", "{B69516AB-ACDE-4ABC-89E2-3070E89533C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnVk.Common", "LearnVk.Common\LearnVk.Common.csproj", "{B00AAF6F-00E2-4129-893A-28222601BD79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,9 @@ Global
 		{B69516AB-ACDE-4ABC-89E2-3070E89533C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B69516AB-ACDE-4ABC-89E2-3070E89533C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B69516AB-ACDE-4ABC-89E2-3070E89533C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00AAF6F-00E2-4129-893A-28222601BD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00AAF6F-00E2-4129-893A-28222601BD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00AAF6F-00E2-4129-893A-28222601BD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00AAF6F-00E2-4129-893A-28222601BD79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
